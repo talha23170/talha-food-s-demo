@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+         /* DISCRIPTION SECTION START */
+.c1{
+ background-image: url(/Images/3b.jpg);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ border-radius: 8px;
+
+}
+         /* DISCRIPTION SECTION END */
+
+         /* BG ATTACHMENT SECTION START */
+.ca{
+    background-image: url(/Images/66.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+        /* BG ATTACHMENT SECTION END */
+.explorprice{
+    text-decoration: line-through;
+}
+.input{
+    outline-style:none;
+}
+.review{
+    padding: 0px 100px 0px 100px !important;
+}
+
+
+
+
